@@ -3,11 +3,7 @@ This sample project is for reproducing the issue below.
 [App Freezes with AVPlayer Inside NavigationStack on iOS 17.2 beta](https://developer.apple.com/forums/thread/741002)
 FB13337560
 
-
-
-https://github.com/hmuronaka/FreezeAppSample/assets/3453800/f1545db3-9a1a-41c3-9530-6010aadae528
-
-
+https://github.com/hmuronaka/FreezeAppSample/assets/3453800/5af07865-80fc-43d0-9bca-0fcb3fc5be6b
 
 # Reproduction environment 
 - macOS: macOS Sonoma 14.1.1
