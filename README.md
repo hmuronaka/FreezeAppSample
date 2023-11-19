@@ -8,7 +8,7 @@ https://github.com/hmuronaka/FreezeAppSample/assets/3453800/5af07865-80fc-43d0-9
 # Reproduction environment 
 - macOS: macOS Sonoma 14.1.1
 - Xcode: 15.1 beta 3(15C5059c)
-- iPhone Simulator: iPhone SE(3rd generation) 1OS 17.2 (21C5046b)
+- iPhone Simulator: iPhone SE(3rd generation) iOS 17.2 (21C5046b)
 
 # Steps:
 
